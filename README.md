@@ -1,16 +1,11 @@
-<h1 style = "color : dodgerblue">Tool Required to Learn Before Machine Learning Algorithm</h1>
-```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```
+# Tool Required to Learn Before Machine Learning Algorithm
 1. Data PreProcessing
 2. MatplotLib
 3. Numpy
 4. Pandas
 
-ML Algorithms Theory & Implementation
-Regression Algorithms
+# ML Algorithms Theory & Implementation
+## Regression Algorithms
 1.	Simple Linear Regression
 2.	Multiple Linear Regression
 3.	Polynomial Regression
@@ -19,7 +14,7 @@ Regression Algorithms
 6.	Decision Tree Regression
 7.	Model Selection in ML
 
-Classification Algorithms
+## Classification Algorithms
 1.	Logistic Regression Classification
 2.	SVM (Super Vector Machine) Classification
 3.	Kernel SVM
