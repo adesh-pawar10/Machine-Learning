@@ -1,4 +1,9 @@
-<span style="color: green">Tool Required to Learn Before Machine Learning Algorithm</span>
+<h1 style = "color : dodgerblue">Tool Required to Learn Before Machine Learning Algorithm</h1>
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
 1. Data PreProcessing
 2. MatplotLib
 3. Numpy
