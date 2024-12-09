@@ -25,3 +25,6 @@
 8.	CAP Curve Analysis
 9.	Performance Metrics
 
+## Clustering Algorithms
+1. K Means Clustering
+2. Hierarchical Clustering
