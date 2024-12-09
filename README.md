@@ -30,5 +30,5 @@
 2. **Hierarchical Clustering**
 
 📚 Association Rule Learning
-1. Apriori
-2. Eclat
+1. **Apriori**
+2. **Eclat**
