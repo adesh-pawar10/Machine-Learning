@@ -28,3 +28,7 @@
 ## 📊 Clustering Algorithms
 1. **K Means Clustering**
 2. **Hierarchical Clustering**
+
+📚 Association Rule Learning
+1. Apriori
+2. Eclat
